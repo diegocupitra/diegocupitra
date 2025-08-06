@@ -7,7 +7,7 @@
 
 ⚡ Recent Activity
 
-<!--RECENT_ACTIVITY:start -->
+<!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update -->
+<!--RECENT_ACTIVITY:last_update-->
 
